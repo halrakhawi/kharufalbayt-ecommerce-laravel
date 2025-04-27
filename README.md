@@ -37,7 +37,7 @@ The platform provides:
 6. Access via `http://localhost:8000`
 
 ## Screenshots
-_(Add screenshots here if available)_
+_(screenshots here..)_
 
 ---
 
